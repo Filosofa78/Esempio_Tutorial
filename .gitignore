@@ -21,3 +21,14 @@
 /yarn-error.log
 
 .byebug_history
+
+
+# Ignore other unneeded files.
+database.yml
+doc/
+*.swp
+*~
+.project
+.DS_Store
+.idea
+.secret
